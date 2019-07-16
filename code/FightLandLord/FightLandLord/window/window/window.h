@@ -1,5 +1,5 @@
 #pragma once
-#include <QtWidgets/QMainWindow>
+#include <C:\Qt\5.12.2\msvc2017\include\QtWidgets\QMainWindow>
 #include "ui_window.h"
 #include <QGraphicsView>
 #include <QGraphicsScene>
